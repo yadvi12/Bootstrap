@@ -1,0 +1,22 @@
+.nav-item {
+  padding: 10px 20px 10px;
+  font-size: 15px;
+  text-align: center;
+}
+
+
+
+#navbar {
+  margin-bottom: 90px;
+}
+
+body {
+  background-color: #aacdbe;
+}
+.btn-group{
+padding-top: 20px;
+padding-bottom: 40px;
+}
+.card{
+margin-bottom: 20px;
+}
